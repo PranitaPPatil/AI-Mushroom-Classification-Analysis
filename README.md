@@ -13,7 +13,7 @@
 
 ```bash
 # Create a new conda environment
-conda create -n mushroom_classifier python=3.10
+
 
 # Activate the environment
 conda activate mushroom_classifier
@@ -23,7 +23,7 @@ git clone https://github.com/sanika0304/AI-Mushroom-Classification-Analysis.git
 cd AI-Mushroom-Classification-Analysis-master
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirments.txt
 ```
 
 ### Using Python venv
